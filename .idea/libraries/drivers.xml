@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="drivers">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Selenium-drivers/drivers" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
